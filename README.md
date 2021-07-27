@@ -20,3 +20,4 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **27 Juli 2021**  
+Coba Code Review
